@@ -37,7 +37,7 @@
 * Register/Login via Email, Google, or GitHub.
 * Email verification during registration.
 * Profile management: edit name, bio, skills, profile picture.
-* GitHub username links directly to user’s GitHub profile.
+* GitHub username links directly to user’s GitHub profile
 * Logout functionality.
 
 ### **6. Dashboard**
